@@ -107,3 +107,4 @@ You should be able to run
 *python runner.py*
 
 to play Minesweeper (or let your AI play for you)!
+To run the game use python3 runner.py
