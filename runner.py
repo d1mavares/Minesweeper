@@ -52,6 +52,8 @@ instructions = True
 key4ai2move = 0
 key4ai2go_on = 0
 
+print('Welcome to Minesweeper!')
+
 while True:
 
     # Check if game quit
