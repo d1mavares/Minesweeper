@@ -53,6 +53,7 @@ key4ai2move = 0
 key4ai2go_on = 0
 
 print('Welcome to Minesweeper!')
+print('This version is happy to welcome you with a 32x32 board and 200 mines.')
 
 while True:
 
